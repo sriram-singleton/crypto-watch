@@ -1,0 +1,10 @@
+- react-router-dom is used for single page applications. i.e. multiple pages without refreshing. This is Routing.
+- useStyles, useHistory are classes from material UI.
+- Context API helps to make certain states available to whole of our App.
+- Axios is used to fetch data externally. i.e. for fetching API.
+- Table, darkTheme, Linear Progress, etc. are taken from material UI.
+- react-html-parser is used as in coin's description, there was html written. So that package converted the html to meaningful english.
+- makeStyles is used to give css to the div's.
+- Login Button UI (Login, Signup) -> material UI known as modal and Tabs.
+- Drawer is sidebar from material UI.
+- 
